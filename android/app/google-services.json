@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883878408574",
+    "project_id": "learn-talk",
+    "storage_bucket": "learn-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883878408574:android:bd3770529a7978ed2fc32f",
+        "android_client_info": {
+          "package_name": "com.example.learn_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883878408574-lgf928t5h23fbc10qm00r20k50fv1s2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn_chat",
+            "certificate_hash": "3abf0cd65c6482fcc19f445a007f65bdcfb4ba12"
+          }
+        },
+        {
+          "client_id": "883878408574-ui3dggf9e8esn9oq5iia7v573n7i06qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-nSg_3VL6qrB2hYVmf51xBQKv8JWcGFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883878408574-ui3dggf9e8esn9oq5iia7v573n7i06qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
